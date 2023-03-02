@@ -1,3 +1,2 @@
 # git_test
-Hello, Odin!
-Intento de verificar algo 
+Hello, Odin!git config --global core.editor "code --wait"
